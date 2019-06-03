@@ -16,7 +16,9 @@
 
 #### 2. `Packages/manifest.json` に ScopedRegistry の設定を追加する
 
-このとき、利用したいパッケージ名のドメイン部分を `"scopes"` に指定します。
+Unity Package Manager が独自にサポートしている `scopedRegistry` の仕組みを利用して Unofficial Unity Package Manager Registry へアクセスします。
+
+このとき、利用したいパッケージ名のドメイン部分を `scopedRegistries.scopes` フィールドに指定します。
 
 ```json
 {
@@ -55,7 +57,7 @@
 }
 ```
 
-#### 3. `"dependencies"` にインストールしたいパッケージを指定する
+#### 3. `dependencies` フィールドにインストールしたいパッケージを指定する
 
 利用したいパッケージ名と、バージョンを `"$package_name": "$version"` の形式で追加します。
 
