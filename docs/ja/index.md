@@ -1,10 +1,17 @@
-# Unofficial Unity Package Manager Registry へようこそ
+---
+title: "Unofficial Unity Package Manager Registry"
+keywords: upm,Unity Package Manager,Unity
+tags: [getting_started]
+sidebar: mydoc_sidebar
+permalink: ja/index
+summary: Unofficial Unity Package Manager Registry is npm Registry of packages for Unity Package Manager.
+---
 
 ## Unofficial Unity Package Manager Registry とは？
 
 **Unofficial Unity Package Manager Registry** は Unity Package Manager 用の npm レジストリです。
 
-このレジストリは有志により運営されています。
+このレジストリは有志により運営されています。もしこのドキュメントを読んだ貴方がこのプロジェクトに共感していただけた際には、 [GitHub](https://github.com/upm-packages/docs) で Star を押してください！
 
 ## 使い方
 
@@ -98,7 +105,7 @@ Unity Package Manager が独自にサポートしている `scopedRegistry` の�
 
 #### 3. 認証情報を `~/.npmrc` に保存する
 
-![認証情報](images/auth_info.png)
+![認証情報](/images/screenshots/auth_info.png)
 
 画面上部に表示される認証情報をコピーし、 `~/.npmrc` の末尾に追記します。
 
