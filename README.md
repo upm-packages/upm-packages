@@ -6,5 +6,5 @@ If you read this document and support this activity, please add a GitHub star.
 
 ## Documents
 
-* [index](https://docs.upm-packages.dev)
-* [index-ja](https://docs.upm-packages.dev/index-ja)
+* [English](https://docs.upm-packages.dev/)
+* [Japanese](https://docs.upm-packages.dev/ja/)
