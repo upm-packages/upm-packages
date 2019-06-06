@@ -1,10 +1,12 @@
-# Unofficial Unity Package Manager Registry
+# [Unofficial Unity Package Manager Registry](https://upm-packages.dev)
 
-Documents for [Unofficial Unity Package Manager Registry](https://upm-packages.dev).
+![Eyecatch Image](images/eyecatch.png)
 
-If you read this document and support this activity, please add a GitHub star.
+[Unofficial Unity Package Manager Registry](https://upm-packages.dev) is npm registry for Unity Package Manager.
 
-## Documents
+If you support this activity, please add a GitHub star.
 
-* [English](https://docs.upm-packages.dev/)
+## [Documents](https://docs.upm-packages.dev/)
+
+* [English](https://docs.upm-packages.dev/en/)
 * [Japanese](https://docs.upm-packages.dev/ja/)
